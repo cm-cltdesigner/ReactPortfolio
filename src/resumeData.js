@@ -97,7 +97,8 @@ let resumeData = {
       {
         "name":"MovieNow App",
         "description":"mobileapp",
-        "imgurl":"https://i.ibb.co/ChWJ3px/modified-logo.png"
+        "imgurl":"https://i.ibb.co/ChWJ3px/modified-logo.png",
+        "url":"https://movie-now-app.herokuapp.com/",
       },
       {
         "name":"Friend Finder App",
@@ -105,15 +106,15 @@ let resumeData = {
         "imgurl":"https://i.ibb.co/WWvtqWp/fff-app.jpg"
       },
       {
-        "name":"ClearMoon",
-        "description":"mobileapp",  
-        "imgurl":"https://i.ibb.co/vJcRjxG/Screen-Shot-2019-06-16-at-11-55-23-PM.png"
+        // "name":"ClearMoon",
+        // "description":"mobileapp",  
+        // "imgurl":"https://i.ibb.co/vJcRjxG/Screen-Shot-2019-06-16-at-11-55-23-PM.png"
         // https://cm-cltdesigner.github.io/ClearMoon/
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        // "name":"project4",
+        // "description":"mobileapp",
+        // "imgurl":"images/portfolio/phone.jpg"
       },
     ],
     "testimonials":[
