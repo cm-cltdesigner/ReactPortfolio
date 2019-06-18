@@ -7,7 +7,7 @@ export default class ContactUs extends Component {
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-              Section Coming Soon
+              {/* Section Coming Soon */}
               </p>
               
             </div>
@@ -15,8 +15,8 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Social media 
-                </h4>
+                {/* <h4>Social media 
+                </h4> */}
               </div>
             </aside>
           </div>
