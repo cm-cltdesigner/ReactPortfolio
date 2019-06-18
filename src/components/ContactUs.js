@@ -4,23 +4,43 @@ export default class ContactUs extends Component {
     let resumeData = this.props.resumeData;
     return (
       <section id="contact">
-          <div className="row section-head">
-            <div className="ten columns">
-              <p className="lead">
-              {/* Section Coming Soon */}
-              </p>
-              
-            </div>
-          </div>
-          <div className="row">
-            <aside className="eigth columns footer-widgets">
-              <div className="widget">
-                {/* <h4>Social media 
-                </h4> */}
+        <div className="row section-head">
+          <div className="ten columns">
+            <p className="lead"></p>
+            <div className="row">
+
+              <div className="columns contact-details MakeWhite">
+
+                <h2>Contact Details</h2>
+                <p className="address">
+                  {/* <span>{resumeData.name}</span> */}
+
+                  <span>
+                    {/* {resumeData.address} */}
+                    980-598-7724<br />
+                    cmanery4hire@gmail.com<br />
+                    Based in Charlotte, NC<br />
+                  </span>
+
+                  {/* <span>{resumeData.website}</span> */}
+                </p>
               </div>
-            </aside>
+            </div>
+        
+              <div class="section-heading">
+                <h3 class="title is-2">Hire Me !</h3>
+                <a href="https://drive.google.com/file/d/1O7cLuT_NB9TOs0Lr8BkjtgX_rusZrwb-/view?usp=sharing" class="button is-link is-medium">
+
+                  {/* <span class="icon">
+                    <i class="fas fa-file-alt"></i>
+                  </span> */}
+                  <span>Download My Resume</span>
+                </a>
+              </div>
+
           </div>
-        </section>
-        );
+        </div>
+      </section>
+    );
   }
 }

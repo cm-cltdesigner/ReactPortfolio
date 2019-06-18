@@ -464,7 +464,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
    font: 16px/30px 'opensans-bold', sans-serif;
-   background: #11ABB0;
+   background: #3d4145;
    display: inline-block;
 	text-decoration: none;
    letter-spacing: 0;
@@ -487,12 +487,16 @@ input[type="button"] {
    border-radius: 3px;
 }
 
+.MakeWhite {
+   color: white,
+}
+
 .button:hover,
 button:hover,
 input[type="submit"]:hover,
 input[type="reset"]:hover,
 input[type="button"]:hover {
-   background: #3d4145;
+   background: orangered;
    color: #fff;
 }
 

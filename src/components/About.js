@@ -21,25 +21,7 @@ export default class About extends Component {
                      }
                   </p>
 
-                  <div className="row">
-
-                     <div className="columns contact-details">
-
-                        <h2>Contact Details</h2>
-                        <p className="address">
-                           {/* <span>{resumeData.name}</span> */}
-                           <br></br>
-                           <span>
-                              {/* {resumeData.address} */}
-                              980-598-7724<br/>
-                              cmanery4hire@gmail.com<br/>
-                              Based in Charlotte, NC<br/>
-                           </span>
-                       
-                           {/* <span>{resumeData.website}</span> */}
-                        </p>
-                     </div>
-                  </div>
+                  
                </div>
             </div>
          </section>
