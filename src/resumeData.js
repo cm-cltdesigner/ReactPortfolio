@@ -55,7 +55,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"GitCreativ LLC",
-        "specialization":"Graphic/ Web Developer",
+        "specialization":" Freelance Graphic/ Web Developer",
         "MonthOfLeaving":"Sept. 2016",
         "YearOfLeaving":"- Present",
         "Achievements":"Developing engaging and innovative Digital and Print Designs, Logo and Web Design, Company Branding Development, Social Media Management"
