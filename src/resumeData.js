@@ -105,17 +105,17 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"https://i.ibb.co/WWvtqWp/fff-app.jpg"
       },
-      {
-        // "name":"ClearMoon",
-        // "description":"mobileapp",  
-        // "imgurl":"https://i.ibb.co/vJcRjxG/Screen-Shot-2019-06-16-at-11-55-23-PM.png"
-        // https://cm-cltdesigner.github.io/ClearMoon/
-      },
-      {
-        // "name":"project4",
-        // "description":"mobileapp",
-        // "imgurl":"images/portfolio/phone.jpg"
-      },
+      // {
+      //   // "name":"ClearMoon",
+      //   // "description":"mobileapp",  
+      //   // "imgurl":"https://i.ibb.co/vJcRjxG/Screen-Shot-2019-06-16-at-11-55-23-PM.png"
+      //   // https://cm-cltdesigner.github.io/ClearMoon/
+      // },
+      // {
+      //   // "name":"project4",
+      //   // "description":"mobileapp",
+      //   // "imgurl":"images/portfolio/phone.jpg"
+      // },
     ],
     "testimonials":[
       {
