@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl": "http://www.courtneymanery.com",
+  "imagebaseurl": "",
   "name": "Courtney Manery",
   "role": "Graphic/ Web Developer",
   "linkedinId": "https://www.linkedin.com/in/courtneymanery",
@@ -28,7 +28,7 @@ let resumeData = {
   ],
   "aboutme": "Graphic Design is my first love with an ceaseless passion for Front-End Web Development. I have extensive knowledge of modern Web techniques with random cravings for Hot Chocolate. Currently seeking a full-time opportunity with a talented and passionate group of developers/designers creating something awesome everyday. I believe in great leadership and teamwork, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community.",
   "address": "Charlotte, NC USA",
-  "website": "courtneymanery.com",
+  "website": "",
   "education": [
     {
       "UniversityName": "University of North Carolina",
@@ -93,7 +93,7 @@ let resumeData = {
       "skillname": "Adobe Creative Suite"
     },
   ],
-  "portfolio": [
+  "portfolioLinks": [
     {
       "name": "MovieNow App",
       "description": "mobileapp",
