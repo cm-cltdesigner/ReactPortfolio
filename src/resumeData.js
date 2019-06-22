@@ -93,7 +93,7 @@ let resumeData = {
       "skillname": "Adobe Creative Suite"
     },
   ],
-  "portfolioLinks": [
+  "portfolio": [
     {
       "name": "MovieNow App",
       "description": "mobileapp",

@@ -18,8 +18,7 @@ export default class Portfolio extends Component {
                           <div className="overlay">
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>
-                              <p>{item.description}</p><br/>
-                              <p>button</p>
+                              <p>{item.description}</p>
                             </div>
                           </div>
                         </a>
