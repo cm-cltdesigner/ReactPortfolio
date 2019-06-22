@@ -98,25 +98,25 @@ let resumeData = {
       "name": "MovieNow App",
       "description": "mobileapp",
       "imgurl": "https://i.ibb.co/ChWJ3px/modified-logo.png",
-      "url": "https://movie-now-app.herokuapp.com/",
+      "url": "https://movie-now-app.herokuapp.com",
     },
     {
       "name": "Friend Finder App",
       "description": "mobileapp",
       "imgurl": "https://i.ibb.co/WWvtqWp/fff-app.jpg",
-      "url": "https://fascinating-friend-finder.herokuapp.com/",
+      "url": "https://fascinating-friend-finder.herokuapp.com",
       },
       {
         "name":"ClearMoon",
         "description":"mobileapp",  
         "imgurl":"https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
-        "url": "https://gitcreativ.com/ClearMoon/"
+        "url": "https://gitcreativ.com/ClearMoon"
       },
       {
         "name":"Koscowix",
         "description":"mobileapp",
         "imgurl":"https://i.ibb.co/2kM54mZ/watch-icon-300x300.png",
-        "url": "https://koscowix-react-app.herokuapp.com/",
+        "url": "https://koscowix-react-app.herokuapp.com",
       },
     ],
 "testimonials": [
