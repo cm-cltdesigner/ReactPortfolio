@@ -105,46 +105,46 @@ let resumeData = {
       "description": "mobileapp",
       "imgurl": "https://i.ibb.co/WWvtqWp/fff-app.jpg",
       "url": "https://fascinating-friend-finder.herokuapp.com",
-      },
-      {
-        "name":"ClearMoon",
-        "description":"mobileapp",  
-        "imgurl":"https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
-        "url": "https://gitcreativ.com/ClearMoon"
-      },
-      {
-        "name":"Koscowix",
-        "description":"mobileapp",
-        "imgurl":"https://i.ibb.co/2kM54mZ/watch-icon-300x300.png",
-        "url": "https://koscowix-react-app.herokuapp.com",
-      },
-    ],
-"testimonials": [
-  {
-    "description": "Outside of being a great designer, Courtney is a great person. She puts the people around her in a better mood and always goes beyond what is asked of her without hesitation. She is a highly conceptual thinker and puts together highly developed, thorough pieces. She would be a great fit on any creative team.",
-    "name": "Kenneth D."
-  },
-  {
-    "description": "Beyond being a very motivated and talented graphic design student, Courtney served as a role model for other students. She's polite, friendly and a pleasure to have in any professional setting.",
-    "name": "Ralph V."
-  },
-  {
-    "description": "Courtney Manery did an outstanding job on a marketing brochure for my business. She was creative and attentive to my needs regarding the overall objective for the piece. Any client can count on Courtney to provide fast service and strong desire to get the job done right!",
-    "name": "Teresa R."
-  },
-  {
-    "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
-    "name": "Jessica M."
-  },
-  {
-    "description": "She did an amazing job with my company website. She added design details that I wouldn't never thought of which generated business. You too should hire Courtney.",
-    "name": "Shannon M."
-  },
-  {
-    "description": "The work Mrs. Manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
-    "name": "Dontè M."
-  },
-]
-  }
+    },
+    {
+      "name": "ClearMoon",
+      "description": "mobileapp",
+      "imgurl": "https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
+      "url": "https://gitcreativ.com/ClearMoon"
+    },
+    {
+      "name": "Koscowix",
+      "description": "mobileapp",
+      "imgurl": "https://i.ibb.co/2kM54mZ/watch-icon-300x300.png",
+      "url": "https://koscowix-react-app.herokuapp.com",
+    },
+  ],
+  "testimonials": [
+    {
+      "description": "Outside of being a great designer, Courtney is a great person. She puts the people around her in a better mood and always goes beyond what is asked of her without hesitation. She is a highly conceptual thinker and puts together highly developed, thorough pieces. She would be a great fit on any creative team.",
+      "name": "Kenneth D."
+    },
+    {
+      "description": "Beyond being a very motivated and talented graphic design student, Courtney served as a role model for other students. She's polite, friendly and a pleasure to have in any professional setting.",
+      "name": "Ralph V."
+    },
+    {
+      "description": "Courtney Manery did an outstanding job on a marketing brochure for my business. She was creative and attentive to my needs regarding the overall objective for the piece. Any client can count on Courtney to provide fast service and strong desire to get the job done right!",
+      "name": "Teresa R."
+    },
+    {
+      "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
+      "name": "Jessica M."
+    },
+    {
+      "description": "She did an amazing job with my company website. She added design details that I wouldn't never thought of which generated business. You too should hire Courtney.",
+      "name": "Shannon M."
+    },
+    {
+      "description": "The work Mrs. Manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
+      "name": "Dontè M."
+    },
+  ]
+}
 
 export default resumeData
