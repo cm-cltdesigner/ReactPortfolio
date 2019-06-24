@@ -68,7 +68,7 @@ let resumeData = {
       "Achievements": "Social Media Management, Create Custom Digital Ads & Direct Mailers, Host Monthly Workshops To Enhance Real Estate Agents Marketing/Advertising, Develop Luxury Portfolio Properties Presentations For Real Estate Agents"
     },
     {
-      "CompanyName": "Tattoo Projects",
+      "CompanyName": "Tattoo Projects Advertising Agency",
       "specialization": "Graphic Design Intern",
       "MonthOfLeaving": "Aug. 2017",
       "YearOfLeaving": "- Nov. 2017",
