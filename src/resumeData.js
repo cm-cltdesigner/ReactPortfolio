@@ -140,10 +140,6 @@ let resumeData = {
       "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
       "name": "Jessica M."
     },
-    {
-      "description": "The work Mrs. Manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
-      "name": "Dontè M."
-    },
   ]
 }
 
