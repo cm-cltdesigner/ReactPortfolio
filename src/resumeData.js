@@ -121,6 +121,10 @@ let resumeData = {
   ],
   "testimonials": [
     {
+      "description": "Courtney is an amazing person and great to work with. She came to our tutor sessions prepared, and with a positive attitude. Courtney's background in design was evident early on, and her effort, dedication and ability to learn new concepts showed in each project she developed. I'm proud of Courtney, she will make a great addition to any team.",
+      "name": "Meguel C."
+    },
+    {
       "description": "Outside of being a great designer, Courtney is a great person. She puts the people around her in a better mood and always goes beyond what is asked of her without hesitation. She is a highly conceptual thinker and puts together highly developed, thorough pieces. She would be a great fit on any creative team.",
       "name": "Kenneth D."
     },
@@ -135,10 +139,6 @@ let resumeData = {
     {
       "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
       "name": "Jessica M."
-    },
-    {
-      "description": "She did an amazing job with my company website. She added design details that I wouldn't never thought of which generated business. You too should hire Courtney.",
-      "name": "Shannon M."
     },
     {
       "description": "The work Mrs. Manery done for my company was amazing she made my vision come true with a little twist will hire her for my next project thanks...",
