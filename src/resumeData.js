@@ -101,8 +101,8 @@ let resumeData = {
       "url": "https://movie-now-app.herokuapp.com",
     },
     {
-      "name": "Friend Finder App",
-      "description": "mobileapp",
+      "name": "Fascinating Friend Finder App",
+      "description": "A compatibility-based Friend Finder application. I used Express to configure and operate the server, Body-Parser to pass the JSON data back and forth between files & functions, and fs to read & write from the data files on the server.",
       "imgurl": "https://i.ibb.co/WWvtqWp/fff-app.jpg",
       "url": "https://fascinating-friend-finder.herokuapp.com",
     },
