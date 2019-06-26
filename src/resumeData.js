@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl": "",
+  // "imagebaseurl": "",
   "name": "Courtney Manery",
   "role": "Graphic/ Web Developer",
   "linkedinId": "https://www.linkedin.com/in/courtneymanery",
@@ -96,7 +96,7 @@ let resumeData = {
   "portfolio": [
     {
       "name": "MovieNow App",
-      "description": "mobileapp",
+      "description": "The MovieNow App that allows the users to not only search and browse and Trending Movies, Top Rated, Now Playing, Upcoming Movies that pulled from the movie database API. I created this UI layout and ensured application was mobile responsive. Organized teams duties for completion.",
       "imgurl": "https://i.ibb.co/ChWJ3px/modified-logo.png",
       "url": "https://movie-now-app.herokuapp.com",
     },
@@ -108,13 +108,13 @@ let resumeData = {
     },
     {
       "name": "ClearMoon",
-      "description": "mobileapp",
+      "description": "Clear Moon is a responsive web application that helps those interested in viewing the Moon phases and the International Space Station. Created UI layout. Ensured application was mobile responsive.",
       "imgurl": "https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
       "url": "https://gitcreativ.com/ClearMoon"
     },
     {
       "name": "Koscowix",
-      "description": "mobileapp",
+      "description": "Koscowix is an e-commerce application developed in React. Solely created apps content and images. Created UI layout. Planned and organized teams duties for completion. Recruited, collaborated and presented with 3 other developers.",
       "imgurl": "https://i.ibb.co/2kM54mZ/watch-icon-300x300.png",
       "url": "https://koscowix-react-app.herokuapp.com",
     },

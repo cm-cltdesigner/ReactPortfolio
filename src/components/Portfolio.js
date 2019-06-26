@@ -16,7 +16,7 @@ export default class Portfolio extends Component {
                 
                           <img src={`${item.imgurl}`} alt="nametage" className="item-img" />
                           <a href={item.url}>
-                            {/* <i className={item.className}></i> */}
+                            <i className={item.className}></i>
                           <div className="overlay">
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>
