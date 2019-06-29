@@ -20,6 +20,13 @@ export default class Portfolio extends Component {
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>
                               <p>{item.description}</p>
+                              <div class="section-heading">
+                <h3 class="title is-2">Hire Me !</h3>
+                <a href="https://drive.google.com/file/d/1rcrXKsOilhoUvaItVopCfSH_ms4Jw2wR/view?usp=sharing" class="button is-link is-medium">
+                  <span>Download My Resume</span>
+                </a>
+              </div>
+              
                             </div>
                           </div>
                         </a>
