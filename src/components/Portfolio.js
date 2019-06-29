@@ -28,28 +28,13 @@ export default class Portfolio extends Component {
                   )
                 })
               }
+              }
+
             </div>
           </div>
         </div>
       </section>
     );
+
   }
 }
-
-// export default class Home extends Component {
-//   render() {
-//       return (
-//           <Grid>
-//               <Jumbotron className="brainImg">
-//               </Jumbotron>
-//               <div class="footer"><center className="iconsBaby">
-//                   <Image src="giticon.png" className="githubIcon" to="https://github.com/Joeyryanbridges" />
-//                   <Image src="linkedinIcon.png" className="linkedinIcon" href="https://github.com/Joeyryanbridges" />
-//                   <Image src="SOFIcon.png" className="githubIcon" href="https://github.com/Joeyryanbridges" />
-//               </center>
-//               </div>
-//           </Grid>
-//       )
-  
-//   }
-// }
