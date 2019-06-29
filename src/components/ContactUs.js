@@ -30,10 +30,6 @@ export default class ContactUs extends Component {
               <div class="section-heading">
                 <h3 class="title is-2">Hire Me !</h3>
                 <a href="https://drive.google.com/file/d/1rcrXKsOilhoUvaItVopCfSH_ms4Jw2wR/view?usp=sharing" class="button is-link is-medium">
-
-                  {/* <span class="icon">
-                    <i class="fas fa-file-alt"></i>
-                  </span> */}
                   <span>Download My Resume</span>
                 </a>
               </div>
