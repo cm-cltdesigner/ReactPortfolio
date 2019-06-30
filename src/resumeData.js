@@ -95,25 +95,25 @@ let resumeData = {
       "name": "MovieNow App",
       "description": "The MovieNow App that allows the users to not only search and browse and Trending Movies, Top Rated, Now Playing, Upcoming Movies that pulled from the movie database API. I created this UI layout and ensured application was mobile responsive. Organized teams duties for completion.",
       "imgurl": "https://i.ibb.co/ChWJ3px/modified-logo.png",
-      "imagebaseurl": "https://movie-now-app.herokuapp.com",
+      "url": "https://movie-now-app.herokuapp.com",
     },
     {
       "name": "Fascinating Friend Finder App",
       "description": "A compatibility-based Friend Finder application. I used Express to configure and operate the server, Body-Parser to pass the JSON data back and forth between files & functions, and fs to read & write from the data files on the server.",
       "imgurl": "https://i.ibb.co/WWvtqWp/fff-app.jpg",
-      "imagebaseurl": "https://fascinating-friend-finder.herokuapp.com",
+      "url": "https://fascinating-friend-finder.herokuapp.com",
     },
     {
       "name": "ClearMoon",
       "description": "Clear Moon is a responsive web application that helps those interested in viewing the Moon phases and the International Space Station. Created UI layout. Ensured application was mobile responsive.",
       "imgurl": "https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
-      "imagebaseurl": "https://gitcreativ.com/ClearMoon"
+      "url": "https://gitcreativ.com/ClearMoon"
     },
     {
       "name": "Koscowix",
       "description": "Koscowix is an e-commerce application developed in React. Solely created apps content and images. Created UI layout. Planned and organized teams duties for completion. Recruited, collaborated and presented with 3 other developers.",
       "imgurl": "https://i.ibb.co/2kM54mZ/watch-icon-300x300.png",
-      "imagebaseurl": "https://koscowix-react-app.herokuapp.com",
+      "url": "https://koscowix-react-app.herokuapp.com",
     },
   ],
   "testimonials": [
