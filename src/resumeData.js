@@ -56,22 +56,22 @@ let resumeData = {
       "specialization": " Freelance Graphic/ Web Developer",
       "MonthOfLeaving": "Sept. 2016",
       "YearOfLeaving": "- Present",
-      "Achievements": "Developing engaging and innovative Digital and Print Designs, Logo and Web Design, Company Branding Development, Social Media Management"
+      "Achievements": "Developing engaging and innovative Digital and Print Designs, Logo and Web Design, Company Branding Development, Social Media Management",
     },
     {
       "CompanyName": "Allen Tate Companies",
       "specialization": "Marketing Concierge",
       "MonthOfLeaving": "Aug. 2018",
       "YearOfLeaving": "- Mar. 2019",
-      "Achievements": "Social Media Management, Create Custom Digital Ads & Direct Mailers, Host Monthly Workshops To Enhance Real Estate Agents Marketing/Advertising, Develop Luxury Portfolio Properties Presentations For Real Estate Agents"
+      "Achievements": "Social Media Management, Create Custom Digital Ads & Direct Mailers, Host Monthly Workshops To Enhance Real Estate Agents Marketing/Advertising, Develop Luxury Portfolio Properties Presentations For Real Estate Agents",
     },
     {
       "CompanyName": "Tattoo Projects Advertising Agency",
       "specialization": "Graphic Design Intern",
       "MonthOfLeaving": "Aug. 2017",
       "YearOfLeaving": "- Nov. 2017",
-      "Achievements": " Developed New Design Concepts, Graphics, Page Layouts & Logos, Pitched Idea’s & Mockups for Advertising Campaigns, Ability To Interact, Communicate & Present Ideas to Design Team & Clients, Worked Independently & Closely With Senior Designers & Art Directors"
-    }
+      "Achievements": " Developed New Design Concepts, Graphics, Page Layouts & Logos, Pitched Idea’s & Mockups for Advertising Campaigns, Ability To Interact, Communicate & Present Ideas to Design Team & Clients, Worked Independently & Closely With Senior Designers & Art Directors",
+    },
   ],
   "skills": [
     {
