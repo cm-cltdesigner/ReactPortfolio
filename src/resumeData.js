@@ -1,5 +1,4 @@
 let resumeData = {
-  // "imagebaseurl": "",
   "name": "Courtney Manery",
   "role": "Graphic/ Web Developer",
   "linkedinId": "https://www.linkedin.com/in/courtneymanery",
@@ -28,7 +27,6 @@ let resumeData = {
   ],
   "aboutme": "Graphic Design is my first love with an ceaseless passion for Front-End Web Development. I have extensive knowledge of modern Web techniques with random cravings for Hot Chocolate. Currently seeking a full-time opportunity with a talented and passionate group of developers/designers creating something awesome everyday. I believe in great leadership and teamwork, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community.",
   "address": "Charlotte, NC USA",
-  "website": "",
   "education": [
     {
       "UniversityName": "University of North Carolina",
@@ -75,7 +73,6 @@ let resumeData = {
       "Achievements": " Developed New Design Concepts, Graphics, Page Layouts & Logos, Pitched Idea’s & Mockups for Advertising Campaigns, Ability To Interact, Communicate & Present Ideas to Design Team & Clients, Worked Independently & Closely With Senior Designers & Art Directors"
     }
   ],
-  "skillsDescription": "Languages",
   "skills": [
     {
       "skillname": "HTML5"
@@ -140,7 +137,7 @@ let resumeData = {
       "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
       "name": "Jessica M."
     },
-  ]
+  ],
 }
 
 export default resumeData
