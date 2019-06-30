@@ -11,8 +11,7 @@ export default class Testimonials extends Component {
             </div>
             <div className="ten columns flex-container">
               <div className="flexslider">
-                <ul className="slides">
-                  {
+                <ul className="slides">{
                     resumeData.testimonials && resumeData.testimonials.map((item)=>{
                       return(
                         <li>
@@ -27,10 +26,10 @@ export default class Testimonials extends Component {
                     })
                   }
                 </ul>
-              </div> {/* div.flexslider ends */}
-            </div> {/* div.flex-container ends */}
-          </div> {/* row ends */}
-        </div>  {/* text-container ends */}
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
         );
   }
