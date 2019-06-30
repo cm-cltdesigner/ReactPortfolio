@@ -23,7 +23,7 @@ let resumeData = {
       "name": "twitter",
       "url": "https://twitter.com/CourtneyManery",
       "className": "fa fa-twitter"
-    }
+    },
   ],
   "aboutme": "Graphic Design is my first love with an ceaseless passion for Front-End Web Development. I have extensive knowledge of modern Web techniques with random cravings for Hot Chocolate. Currently seeking a full-time opportunity with a talented and passionate group of developers/designers creating something awesome everyday. I believe in great leadership and teamwork, as well as being involved in an organization that believes in gaining a competitive edge and giving back to the community.",
   "address": "Charlotte, NC USA",
