@@ -33,27 +33,27 @@ let resumeData = {
       "specialization": "Full Stack Web Development",
       "MonthOfPassing": "June",
       "YearOfPassing": "2019",
-      "Achievements": "Certification"
+      "Achievements": "Certification",
     },
     {
       "UniversityName": "Southern New Hampshire",
       "specialization": "Marketing",
       "MonthOfPassing": "Jan",
       "YearOfPassing": "2019",
-      "Achievements": "Bachelors"
+      "Achievements": "Bachelors",
     },
     {
       "UniversityName": "King's College",
       "specialization": "Graphic Design",
       "MonthOfPassing": "Dec",
       "YearOfPassing": "2017",
-      "Achievements": "Associates"
+      "Achievements": "Associates",
     },
   ],
   "work": [
     {
       "CompanyName": "GitCreativ LLC",
-      "specialization": " Freelance Graphic/ Web Developer",
+      "specialization": "Freelance Graphic/ Web Developer",
       "MonthOfLeaving": "Sept. 2016",
       "YearOfLeaving": "- Present",
       "Achievements": "Developing engaging and innovative Digital and Print Designs, Logo and Web Design, Company Branding Development, Social Media Management",
@@ -70,24 +70,24 @@ let resumeData = {
       "specialization": "Graphic Design Intern",
       "MonthOfLeaving": "Aug. 2017",
       "YearOfLeaving": "- Nov. 2017",
-      "Achievements": " Developed New Design Concepts, Graphics, Page Layouts & Logos, Pitched Idea’s & Mockups for Advertising Campaigns, Ability To Interact, Communicate & Present Ideas to Design Team & Clients, Worked Independently & Closely With Senior Designers & Art Directors",
+      "Achievements": "Developed New Design Concepts, Graphics, Page Layouts & Logos, Pitched Idea’s & Mockups for Advertising Campaigns, Ability To Interact, Communicate & Present Ideas to Design Team & Clients, Worked Independently & Closely With Senior Designers & Art Directors",
     },
   ],
   "skills": [
     {
-      "skillname": "HTML5"
+      "skillname": "HTML5",
     },
     {
-      "skillname": "CSS"
+      "skillname": "CSS",
     },
     {
-      "skillname": "Javascript"
+      "skillname": "Javascript",
     },
     {
-      "skillname": "React.js"
+      "skillname": "React.js",
     },
     {
-      "skillname": "Adobe Creative Suite"
+      "skillname": "Adobe Creative Suite",
     },
   ],
   "portfolio": [
@@ -107,7 +107,7 @@ let resumeData = {
       "name": "ClearMoon",
       "description": "Clear Moon is a responsive web application that helps those interested in viewing the Moon phases and the International Space Station. Created UI layout. Ensured application was mobile responsive.",
       "imgurl": "https://webiconspng.com/wp-content/uploads/2017/09/Moon-PNG-Image-55224.png",
-      "url": "https://gitcreativ.com/ClearMoon"
+      "url": "https://gitcreativ.com/ClearMoon",
     },
     {
       "name": "Koscowix",
@@ -119,23 +119,23 @@ let resumeData = {
   "testimonials": [
     {
       "description": "Courtney is an amazing person and great to work with. She came to our tutor sessions prepared, and with a positive attitude. Courtney's background in design was evident early on, and her effort, dedication and ability to learn new concepts showed in each project she developed. I'm proud of Courtney, she will make a great addition to any team.",
-      "name": "Meguel C."
+      "name": "Meguel C.",
     },
     {
       "description": "Outside of being a great designer, Courtney is a great person. She puts the people around her in a better mood and always goes beyond what is asked of her without hesitation. She is a highly conceptual thinker and puts together highly developed, thorough pieces. She would be a great fit on any creative team.",
-      "name": "Kenneth D."
+      "name": "Kenneth D.",
     },
     {
       "description": "Beyond being a very motivated and talented graphic design student, Courtney served as a role model for other students. She's polite, friendly and a pleasure to have in any professional setting.",
-      "name": "Ralph V."
+      "name": "Ralph V.",
     },
     {
       "description": "Courtney Manery did an outstanding job on a marketing brochure for my business. She was creative and attentive to my needs regarding the overall objective for the piece. Any client can count on Courtney to provide fast service and strong desire to get the job done right!",
-      "name": "Teresa R."
+      "name": "Teresa R.",
     },
     {
       "description": "Courtney made sure she gave me exactly what I wanted. She understood my vision and gave me a logo that reflects me.",
-      "name": "Jessica M."
+      "name": "Jessica M.",
     },
   ],
 }
