@@ -52,10 +52,17 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "iLaunch Labs",
+      "specialization": "UX/UI Apprentice",
+      "MonthOfLeaving": "June 2019",
+      "YearOfLeaving": "- Present",
+      "Achievements": "Analyze UX problems and create design solutions that meet business goals. Build new front-end user-centered designs on sites by considering market analysis, customer feedback and usability findings. Create interface and visual design solutions from concept to final code. Successfully plan and execute tests for UX department. Create meaningful wireframes, prototypes and presentations.",
+    },
+    {
       "CompanyName": "GitCreativ LLC",
       "specialization": "Freelance Graphic/ Web Developer",
       "MonthOfLeaving": "Sept. 2016",
-      "YearOfLeaving": "- Present",
+      "YearOfLeaving": "- May 2019",
       "Achievements": "Developing engaging and innovative Digital and Print Designs, Logo and Web Design, Company Branding Development, Social Media Management",
     },
     {
