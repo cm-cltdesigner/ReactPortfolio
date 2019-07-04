@@ -12,25 +12,25 @@ export default class Testimonials extends Component {
             <div className="ten columns flex-container">
               <div className="flexslider">
                 <ul className="slides">{
-                    resumeData.testimonials && resumeData.testimonials.map((item)=>{
-                      return(
-                        <li>
-                          <blockquote>
-                            <p>
+                  resumeData.testimonials && resumeData.testimonials.map((item) => {
+                    return (
+                      <li>
+                        <blockquote>
+                          <p>
                             {item.description}
-                            </p>
-                            <cite>{item.name}</cite>
-                          </blockquote>
-                        </li>
-                      )
-                    })
-                  }
+                          </p>
+                          <cite>{item.name}</cite>
+                        </blockquote>
+                      </li>
+                    )
+                  })
+                }
                 </ul>
               </div>
             </div>
           </div>
         </div>
       </section>
-        );
+    );
   }
 }
