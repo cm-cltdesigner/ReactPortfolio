@@ -53,7 +53,7 @@ let resumeData = {
   "work": [
     {
       "CompanyName": "iLaunch Labs",
-      "specialization": "UX/UI Apprentice",
+      "specialization": "UX/UI Designer Apprentice",
       "MonthOfLeaving": "June 2019",
       "YearOfLeaving": "- Present",
       "Achievements": "Analyze UX problems and create design solutions that meet business goals. Build new front-end user-centered designs on sites by considering market analysis, customer feedback and usability findings. Create interface and visual design solutions from concept to final code. Successfully plan and execute tests for UX department. Create meaningful wireframes, prototypes and presentations.",
