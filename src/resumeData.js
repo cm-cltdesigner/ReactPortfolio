@@ -105,10 +105,10 @@ let resumeData = {
       "url": "https://movie-now-app.herokuapp.com",
     },
     {
-      "name": "Fascinating Friend Finder App",
-      "description": "A compatibility-based Friend Finder application. I used Express to configure and operate the server, Body-Parser to pass the JSON data back and forth between files & functions, and fs to read & write from the data files on the server.",
-      "imgurl": "https://i.ibb.co/WWvtqWp/fff-app.jpg",
-      "url": "https://fascinating-friend-finder.herokuapp.com",
+      "name": "All News App",
+      "description": "Design News app with a focus on Express and newly used NPM's, which allows the users to read the Latest News from 'theVerge'. I used minimal css design and express-handlebars, mongoose an NPM called cheerio and axios.",
+      "imgurl": "https://www.pngfind.com/pngs/m/164-1644354_image-set-png-256x256-px-newspaper-icon-news.png",
+      "url": "https://all-scrapped-app.herokuapp.com",
     },
     {
       "name": "ClearMoon",
