@@ -107,7 +107,7 @@ let resumeData = {
     {
       "name": "All News App",
       "description": "Design News app with a focus on Express and newly used NPM's, which allows the users to read the Latest News from 'theVerge'. I used minimal css design and express-handlebars, mongoose an NPM called cheerio and axios.",
-      "imgurl": "https://banner2.kisspng.com/20180724/cuc/kisspng-computer-icons-newspaper-circle-mockup-free-5b56cf9410b974.7662165715324158920685.jpg",
+      "imgurl": "https://www.ssh.com/s/newspaper-icon-810x811-eb5+YhRZ.png",
       "url": "https://all-scrapped-app.herokuapp.com",
     },
     {
