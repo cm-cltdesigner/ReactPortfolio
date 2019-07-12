@@ -789,7 +789,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
-.makeCenter{
+.makeCenter .row{
    position: relative;
 }
 #contact {
