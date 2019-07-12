@@ -488,7 +488,8 @@ input[type="button"] {
 }
 
 .MakeWhite {
-   color: white,
+   color: white;
+   position: relative;
 }
 
 .button:hover,

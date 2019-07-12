@@ -8,7 +8,7 @@ export default class ContactUs extends Component {
           <div className="ten columns">
             <p className="lead"></p>
             <div className="row">
-              <div className="columns contact-details MakeWhite">
+              <div className="columns contact-details MakeWhite makeCenter">
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>
