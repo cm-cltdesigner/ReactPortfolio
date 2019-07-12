@@ -16,7 +16,7 @@ export default class ContactUs extends Component {
                     980-598-7724<br />
                     cmanery4hire@gmail.com<br />
                     Based in Charlotte, NC<br />
-                    <img src="https://i.ibb.co/BP8JPVD/Logo-Sig-03.png" height="100px" width="100px"></img>
+                    <img src="https://i.ibb.co/BP8JPVD/Logo-Sig-03.png" height="100px" width="100px" alt="sigImage"></img>
                   </span>
                 </p>
               </div>
