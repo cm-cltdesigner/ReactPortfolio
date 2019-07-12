@@ -3,12 +3,12 @@ export default class ContactUs extends Component {
   render() {
     // let resumeData = this.props.resumeData;
     return (
-      <center><section id="contact">
+      <section id="contact">
         <div className="row section-head make Center">
           <div className="ten columns">
             <p className="lead"></p>
             <div className="row">
-              <div className="columns contact-details MakeWhite makeCenter">
+              <div className="columns contact-details MakeWhite">
                 <h2>Contact Details</h2>
                 <p className="address">
                   <span>
@@ -30,7 +30,7 @@ export default class ContactUs extends Component {
             </div>
           </div>
         </div>
-      </section></center>
+      </section>
     );
   }
 }
