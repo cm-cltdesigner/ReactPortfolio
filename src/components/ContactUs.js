@@ -3,7 +3,7 @@ export default class ContactUs extends Component {
   render() {
     // let resumeData = this.props.resumeData;
     return (
-      <section id="contact">
+      <center><section id="contact">
         <div className="row section-head">
           <div className="ten columns">
             <p className="lead"></p>
@@ -16,6 +16,7 @@ export default class ContactUs extends Component {
                     980-598-7724<br />
                     cmanery4hire@gmail.com<br />
                     Based in Charlotte, NC<br />
+                    <img src="https://i.ibb.co/BP8JPVD/Logo-Sig-03.png" height="100px" width="100px"></img>
                   </span>
                 </p>
               </div>
@@ -30,7 +31,7 @@ export default class ContactUs extends Component {
 
           </div>
         </div>
-      </section>
+      </section></center>
     );
   }
 }
