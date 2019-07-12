@@ -789,7 +789,9 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
-
+#makeCenter{
+   position: relative;
+}
 #contact {
    background: #191919;
    padding-top: 96px;
