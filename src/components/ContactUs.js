@@ -3,7 +3,7 @@ export default class ContactUs extends Component {
   render() {
     // let resumeData = this.props.resumeData;
     return (
-      <section id="contact">
+      <center><section id="contact">
         <div className="row section-head make Center">
           <div className="ten columns">
             <p className="lead"></p>
@@ -30,7 +30,7 @@ export default class ContactUs extends Component {
             </div>
           </div>
         </div>
-      </section>
+      </section></center>
     );
   }
 }
