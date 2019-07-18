@@ -23,7 +23,7 @@ export default class ContactUs extends Component {
             </div>
 
             <div class="section-heading">
-              <h3 class="title is-2">Hire Me !</h3>
+              <h3 class="title is-2">Hire Me!</h3>
               <a href="https://drive.google.com/file/d/1rcrXKsOilhoUvaItVopCfSH_ms4Jw2wR/view?usp=sharing" class="button is-link is-medium" target="_blank" rel="noopener noreferrer">
                 <span>Download My Resume</span>
               </a>

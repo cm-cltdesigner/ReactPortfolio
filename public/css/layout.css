@@ -1,9 +1,5 @@
 /*
 =====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
-=====================================================================
 
    TOC:
    a. General Styles
@@ -52,7 +48,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -334,11 +330,7 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-/* .wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-} */
+
 .javascript {
   	width: 50%;
   	-moz-animation: css 2s ease;
@@ -407,10 +399,10 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section push
 /* ------------------------------------------------------------------ */
+
 #makeGrey {
    color:grey;
 }
-
 #portfolio {
    background: white;
    padding-top: 90px;
@@ -559,8 +551,8 @@ ul#nav li.current a { color: #F06000; }
 
 /* fadein/fadeout effect for modal popup
 /* ------------------------------------------------------------------ */
-
 /* content at start */
+
 .mfp-fade.mfp-wrap .mfp-content .popup-modal {
    opacity: 0;
    -webkit-transition: all 200ms ease-in-out;
@@ -625,6 +617,7 @@ call-to-action .button {
    background: #0D0D0D;
 }
 */
+
 #call-to-action .button:hover,
 #call-to-action .button:active {
    background: #FFFFFF;
