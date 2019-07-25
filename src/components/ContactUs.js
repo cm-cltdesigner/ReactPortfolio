@@ -28,6 +28,7 @@ export default class ContactUs extends Component {
                 <span>Download My Resume</span>
               </a>
             </div>
+            
           </div>
         </div>
       </section>
